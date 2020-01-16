@@ -1,0 +1,18 @@
+#equal {
+    display: none;
+}
+.btn {
+    display: block;
+  }
+
+#iso {
+    display: none;
+}
+
+#scalene{
+    display: none; 
+}
+
+#fail {
+    display: none;
+}
